@@ -32,7 +32,9 @@ El notebook realiza un análisis exploratorio de datos, limpieza y transformaci�
 
 3. **Visualización de datos**  
    - Análisis de correlaciones
-   - Tendencias de consumo por hora y condiciones climáticas
+   - Tendencias de consumo por hora y condiciones operativas
+
+![Consumo de energía](figure_steel_example_es.png)
 
 4. **Modelado predictivo**  
    - Regresión lineal para predecir consumo energético
